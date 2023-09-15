@@ -1,8 +1,5 @@
-# React + Vite
+# React-Memory-Game
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Description 
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+The React Memory Game is an engaging web-based memory testing game built using React, a popular JavaScript library for building user interfaces. This memory game challenges players to test and enhance their memory skills by matching pairs of cards with similar images or content.
